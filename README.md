@@ -1,2 +1,2 @@
 # Next JS
-### Different Nex JS projects.
+### Different Next JS projects.
